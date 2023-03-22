@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Declaring_boolean_variables.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Go_to_the_store.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Invitations_and_gifts.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Boolean_and_logical_operations-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Digits_or_not.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Encoding_table.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Previous_character.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Sequence.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Characters-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Find_the_output.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Odd_or_even.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Positive,_Negative_or_Zero.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-If_expression-Triangle.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Apple_pie.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-The_number_of_tens.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Integers_in_action-Underscore.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Equal_lists.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Lembas.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Returning_a_result.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Subtraction_function.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Invoking_functions-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Application.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Overview_of_the_basic_program-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Fix_the_input.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Invoke_readLine__.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Read_a_Double.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Reading_data_with_a_readln-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Existing_operators.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Groundhogs_at_the_party.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Relational_operators-Who_is_less_than_10.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Grades.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Kotlin_x5.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Repeat_by_value.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Repeating_blocks-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_input_with_Java_Scanner-Four_numbers.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_input_with_Java_Scanner-Statements.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_input_with_Java_Scanner-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-First,_second,_third.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Standard_output-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_basics-Appending_numbers_to_strings.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_basics-Correct_ways_to_create_a_string.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_basics-I'm_learning_Kotlin.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_basics-JSON.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_basics-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-How_to_write_string_templates.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-String_and_its_Int.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-Templates_for_expressions.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-String_templates-What_are_string_templates.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Declaring_an_immutable_variable.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Find_the_first_incorrect_line.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Fix_the_program.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Labyrinth_in_variables.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Values_and_variables-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Balance_checker.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Choose_the_correct_ones.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-While_loops-What_does_the_code_print.main" target="8" />
+      <module name="Zookeeper_(Kotlin).util.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

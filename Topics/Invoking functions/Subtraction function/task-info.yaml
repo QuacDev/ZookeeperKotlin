@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "<code>subtraction((five), (nine))</code>"
+- text: "<code>subtraction(nine, five)</code>"
+- text: <code>subtraction(five; nine)</code>
+- text: "<code>subtraction(five, nine)</code>"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19916#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 22 Mar 2023 11:39:45 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false
